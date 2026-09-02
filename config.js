@@ -28,7 +28,7 @@
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
   name: "Ranya",
-  photo: "./img/jay",       // Place your photo in the img/ folder
+  photo: "./img/jay.jpg",       // Place your photo in the img/ folder
   music: "./music/hbd",      // Place your music in the music/ folder
 
   // ── Theme Colors ──────────────────────────────────────────────
@@ -80,7 +80,7 @@ const CONFIG = {
         "But then I stopped.",
         "I realised, I wanted to do something <strong>different</strong>.",
         "Because,",
-        "I am different <span>:)</span>",
+        "I am different <span>:P</span>",
       ],
       bigLetters: "SO",
     },
