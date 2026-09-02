@@ -27,7 +27,7 @@
 
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
-  name: "Irene",
+  name: "Ranya",
   photo: "./img/irene.jpg",       // Place your photo in the img/ folder
   music: "./music/hbd.mpeg",      // Place your music in the music/ folder
 
@@ -56,7 +56,7 @@ const CONFIG = {
     {
       type: "greeting",
       title: "Hi",
-      subtitle: "I really like your name btw!",
+      subtitle: "I guess my 'ucapan' is kinda alay",
     },
     {
       type: "countdown",
@@ -65,7 +65,7 @@ const CONFIG = {
     },
     {
       type: "announcement",
-      text: "It's your birthday!! :D",
+      text: "But still, it's your birthday!! :D",
     },
     {
       type: "chatbox",
@@ -78,9 +78,9 @@ const CONFIG = {
       lines: [
         "That's what I was going to do.",
         "But then I stopped.",
-        "I realised, I wanted to do something <strong>special</strong>.",
+        "I realised, I wanted to do something <strong>different</strong>.",
         "Because,",
-        "You are Special <span>:)</span>",
+        "I am different <span>:)</span>",
       ],
       bigLetters: "SO",
     },
@@ -100,7 +100,7 @@ const CONFIG = {
     {
       type: "profile",
       wishTitle: "Happy Birthday!",
-      wishText: "May the js.prototypes always be with you! ;)",
+      wishText: "Enjoy your teenager year!",
     },
     {
       type: "fireworks",
@@ -112,8 +112,8 @@ const CONFIG = {
     },
     {
       type: "closing",
-      text: "Okay, now come back and tell me if you liked it.",
-      replayText: "Or click, if you want to watch it again.",
+      text: "Okay, now tell me 'makasi kakak cantik' if you liked it.",
+      replayText: "Or just click, if you wanna watch again.",
     },
   ],
 };
